@@ -1,2 +1,2 @@
 # website
-official GWC website
+official GWC Issaquah website
