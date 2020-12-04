@@ -1,2 +1,2 @@
 # website
-official GWC Issaquah website
+official IHS GWC Issaquah website
